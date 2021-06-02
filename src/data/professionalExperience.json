@@ -1,0 +1,22 @@
+[
+    {
+        "company" : "HRL Laboratories",
+        "position" : "Software Engineer Intern",
+        "date": "May 2020 - September 2020",
+        "items" : [
+            "Developed communication interface to optimize critical module transactions using asynchronous messaging library, ZeroMQ, and Google Protocol Buffers for serializing structured data.",
+"Researched and developed task-embedding language implemented through recursive decent parser with Python.",
+"Expanded UI designs to display machine-learning agent’s findings using Python bindings for Qt v5."
+        ]
+    },
+    {
+        "company" : "Giftz",
+        "position" : "Software Engineer Intern",
+        "date": "September 2019 - November 2019",
+        "items" : [
+            "Overhauled a published blockchain marketplace Android application written in Java.",
+            "Redesigned UI to emphasize intuitiveness and minimalism, while maintaining a large production codebase (20K+ lines).",
+            "Decreased the lines of code by 10% by eliminating redundancy."
+        ]
+    }
+]

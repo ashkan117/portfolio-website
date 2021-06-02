@@ -1,0 +1,33 @@
+.links {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.links li {
+  flex: 1;
+}
+
+.links a {
+    color: white;
+    font-size: x-large;
+}
+
+.background {
+    background-color: #8db6cd;
+    height: 500px;
+    margin: 24;
+    padding: 24;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;
+}
+

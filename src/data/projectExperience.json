@@ -1,0 +1,32 @@
+[
+    {
+        "company" : "Fork and Spatula",
+        "position" : "Lead Backend Engineer",
+        "date": "March 2020 - March 2021",
+        "items": [
+"Expanded project scope to scale web application post-hackathon with a three-person group.",
+"Deployed on Apache server using Passenger for process and resource management.",
+"Developed backend using Express to interact with RESTful APIs; frontend developed with React."
+        ]
+    },
+    {
+        "company" : "Viber",
+        "position" : "Full Stack Engineer",
+        "date": "October 2020 - December 2020",
+        "items": [
+"Produced SaaS application to leverage strengths in machine learning to analyze virtual meeting engagement.",
+"Followed Test Driven Development (TDD) cycle allowing our team to maintain above 90% test coverage.",
+"Built website where users are able to upload videos for analysis using React, Express, and AWS."
+        ]
+    },
+    {
+        "company" : "Br3w",
+        "position" : "React Native Developer",
+        "date": "January 2020 - March 2020",
+        "items": [
+"Constructed mobile application for student-made coffee machine in collaboration with electrical engineering team.",
+"Helped lead project development with prior React Native experience.",
+"Demonstrated final product to 100-person audience at UCLA Creative Labs quarterly event."
+        ]
+    }
+]
